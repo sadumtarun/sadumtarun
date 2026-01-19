@@ -3,7 +3,7 @@
 # SADUM MUNI TARUN
 
 <p>
-I am writing to express my interest in the Data Science role I came across on LinkedIn. With a strong foundation in Python, Machine Learning, SQL and data analysis. I am excited about the opportunity to bring my skills to your team and help drive impactful data-driven decisions.
+I am writing to express my interest in the Data Science role with a strong foundation in Python, Machine Learning, SQL and data analysis. I am excited about the opportunity to bring my skills to your team and help drive impactful data-driven decisions.
 
 ✉︎ tarunsadum@gmail.com
 
