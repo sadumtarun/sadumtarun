@@ -1,20 +1,64 @@
-<h1 align="center">Hi 👋, I'm SADUM TARUN</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadumtarun" alt="sadumtarun" /></a> </p>
+<div align="center">
 
-- 🔭 I’m currently working on **Data WareHouse**
+# SADUM MUNI TARUN
 
-- 💬 Ask me about **Machine Learning, Python for Data Science, PowerBI, SQL...**
-
-- 📫 How to reach me **tarunsadum@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sadumtarun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadumtarun" height="30" width="40" /></a>
+<p>
+I am writing to express my interest in the Data Science role I came across on LinkedIn. With a strong foundation in Python, Machine Learning, SQL and data analysis. I am excited about the opportunity to bring my skills to your team and help drive impactful data-driven decisions.
 </p>
+<hr>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadumtarun&show_icons=true&locale=en&layout=compact" alt="sadumtarun" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadumtarun&" alt="sadumtarun" /></p>
+## Skills
+
+<div align="">
+
+**Languages & Backend**
+
+`Python` • `MySQL` • `PostgreSQL`
+
+**AI/ML**
+
+`TensorFlow` • `Scikit-Learn` • `NumPy` • `Pandas` • `PowerBI`
+
+
+</div>
+
+## Socials
+
+<div align="center">
+
+<a href="https://github.com/sadumtarun">
+  <img src="https://img.shields.io/badge/GitHub-1E3A8A?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/sadum-tarun-03pt">
+  <img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
+
+## Open Source Contributions
+
+<div align="center">
+
+**This project [Bike Rental Demand Forecasting](https://github.com/sadumtarun/Project-MachineLearning-BikeRentalForecasting) aims to develop a machine learning model to predict bike rental demand in urban areas. By analyzing historical data.**
+
+</div>
+
+
+### How to reach me
+
+<div align="left">
+
+**Email -** tarunsadum@gmail.com
+
+</div>
+
+
+<div align="center">
+
+  *Thanks for visiting my profile!*
+
+</div>
