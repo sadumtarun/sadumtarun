@@ -4,13 +4,16 @@
 
 <p>
 I am writing to express my interest in the Data Science role I came across on LinkedIn. With a strong foundation in Python, Machine Learning, SQL and data analysis. I am excited about the opportunity to bring my skills to your team and help drive impactful data-driven decisions.
+
+✉︎ tarunsadum@gmail.com
+
 </p>
-<hr>
+
 </div>
 
 
 
-## Skills
+## 💡Skills
 
 <div align="">
 
@@ -23,11 +26,22 @@ I am writing to express my interest in the Data Science role I came across on Li
 `TensorFlow` • `Scikit-Learn` • `NumPy` • `Pandas` • `PowerBI`
 
 
-</div>
 
-## Socials
+## ⚡Open Source Contributions
 
 <div align="center">
+
+**This project [Bike Rental Demand Forecasting](https://github.com/sadumtarun/Project-MachineLearning-BikeRentalForecasting) aims to develop a machine learning model to predict bike rental demand in urban areas. By analyzing historical data. This information will be crucial for bike-sharing companies to optimize their operations, improve customer satisfaction, and achieve sustainable growth.**
+
+</div>
+
+
+
+## 🗪 How to reach me
+
+</div>
+
+<div align="left">
 
 <a href="https://github.com/sadumtarun">
   <img src="https://img.shields.io/badge/GitHub-1E3A8A?style=for-the-badge&logo=github&logoColor=white">
@@ -35,24 +49,6 @@ I am writing to express my interest in the Data Science role I came across on Li
 <a href="https://www.linkedin.com/in/sadum-tarun-03pt">
   <img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
-</div>
-
-
-## Open Source Contributions
-
-<div align="center">
-
-**This project [Bike Rental Demand Forecasting](https://github.com/sadumtarun/Project-MachineLearning-BikeRentalForecasting) aims to develop a machine learning model to predict bike rental demand in urban areas. By analyzing historical data.**
-
-</div>
-
-
-### How to reach me
-
-<div align="left">
-
-**Email -** tarunsadum@gmail.com
 
 </div>
 
