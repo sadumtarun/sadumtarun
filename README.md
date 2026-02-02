@@ -27,7 +27,7 @@ I am writing to express my interest in the Data Science role with a strong found
 
 
 
-## ⚡Open Source Contributions
+## ⚡Projects
 
 <div align="center">
 
