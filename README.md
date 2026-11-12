@@ -37,7 +37,7 @@ I am writing to express my interest in the Data Science role with a strong found
 
 <div align="center">
 
-**This project [Project-Data-WareHouse](https://github.com/sadumtarun/Project-Data-WareHouse) involves the design and implementation of an Enterprise Data Warehouse (EDW) to integrate data from multiple operational source systems, including Customer Relationship Management - (CRM) and Enterprise Resource Planning - (ERP) platforms. The goal is to provide a single source of truth for business analytics, reporting, and decision-making.**
+**This project [CRM & ERP Data Integration System](https://github.com/sadumtarun/Project-Data-WareHouse) involves the design and implementation of an Enterprise Data Warehouse (EDW) to integrate data from multiple operational source systems, including Customer Relationship Management - (CRM) and Enterprise Resource Planning - (ERP) platforms. The goal is to provide a single source of truth for business analytics, reporting, and decision-making.**
 
 </div>
 
