@@ -31,7 +31,7 @@ I am writing to express my interest in the Data Science role with a strong found
 
 <div align="center">
 
-**This project [Bike Rental Demand Forecasting](https://github.com/sadumtarun/Project-MachineLearning-BikeRentalForecasting) aims to develop a machine learning model to predict bike rental demand in urban areas. By analyzing historical data. This information will be crucial for bike-sharing companies to optimize their operations, improve customer satisfaction, and achieve sustainable growth.**
+**This project [Bike Rental Demand Forecast](https://github.com/sadumtarun/Project-MachineLearning-BikeRentalForecasting) aims to develop a machine learning model to predict bike rental demand in urban areas. By analyzing historical data. This information will be crucial for bike-sharing companies to optimize their operations, improve customer satisfaction, and achieve sustainable growth.**
 
 </div>
 
